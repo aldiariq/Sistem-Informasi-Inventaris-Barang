@@ -1,0 +1,12 @@
+ .navbar-collapse  {
+            background-color: #fb8c00;
+        }
+        .scroll-sidebar{
+            background-color: #191970;   
+        }
+        .sidebar-nav #sidebarnav .list-divider {
+          height: 4px;
+          background: #e8eaec;
+          display: block;
+          margin: 10px 0 20px 30px;
+          opacity: .1; }
